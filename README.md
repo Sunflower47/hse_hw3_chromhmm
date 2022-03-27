@@ -33,3 +33,49 @@ NhekControl     |  wgEncodeBroadHistone/wgEncodeBroadHistoneNhekControlStdAlnRep
 
 ![image](https://user-images.githubusercontent.com/71615626/160304168-68b0997d-c11c-484a-972a-ff90f8353774.png)
 
+# Обозначения эпигенетических типов
+
+![image](https://user-images.githubusercontent.com/71615626/160304863-b8c1efa5-bd30-45a1-8ff1-b95a631346ec.png)
+
+Подает на участок репрессированного гетерохроматима. Ассоциировано с Genome, laminB1lads.
+
+![image](https://user-images.githubusercontent.com/71615626/160305076-7ec97606-7227-4c91-abc8-7c7159f729cd.png)
+
+Подает на участок репрессированного гетерохроматима. Ассоциировано с laminB1lads, RefSeqTES, RefSeqExon
+
+![image](https://user-images.githubusercontent.com/71615626/160305116-81218260-5dc9-4825-a35e-6494991bd504.png)
+
+Данное состояние попадает на интрон. Ассоциировано с CpGIsland, RefSeqTSS, RefSeqExon, RefSeqTSS2kb, RefSeqTES
+
+![image](https://user-images.githubusercontent.com/71615626/160305166-030f2a7a-47cd-4576-9abb-09f222d325db.png)
+Данное состояние попадает на интрон.
+Асоциировано с CpGIsland, RefSeqExon, RefSeqTSS, RefSeqTSS2kb, RefSeqTES
+
+![image](https://user-images.githubusercontent.com/71615626/160305295-1e59cb4c-e7df-46cd-ac3a-e52afef99594.png)
+
+Это состояние нe попало на ген.Ассоциировано с RefSeqTES, laminB1lads.
+
+![image](https://user-images.githubusercontent.com/71615626/160305438-b3f405b0-5b88-48fc-94d6-243999b941a1.png)
+
+Данное состояние нe попало на ген или могло попасть на интрон. Ассоциировано с laminB1lads, RefSeqTES
+
+![image](https://user-images.githubusercontent.com/71615626/160305468-f6620bec-2ced-4125-9769-0610b6095437.png)
+
+Данное состояние попадает на интрон. Ассоциировано с RefSeqGene, RefSeqTES
+
+![image](https://user-images.githubusercontent.com/71615626/160305518-37cd9b2d-8d36-48fe-96e2-df62c8d5a158.png)
+
+Данное состояние попадает на интрон. Ассоциировано с RefSeqGene.
+
+![image](https://user-images.githubusercontent.com/71615626/160305532-867754da-754f-4294-a682-8f81f95e4def.png)
+
+Попадает транскрибируемый участок гена. Ассоциировано с RefSeqGene
+
+![image](https://user-images.githubusercontent.com/71615626/160305557-4feab824-145e-4b2c-be6e-69d03f02c47e.png)
+
+Попадает транскрибируемый участок гена. Чаще всего ассоциировано с RefSeqExon, RefSeqGene, RefSeqTES
+
+# Часть 2
+![image](https://user-images.githubusercontent.com/71615626/160305598-54dc803e-d29d-4d2d-b804-3c56476dae18.png)
+
+
